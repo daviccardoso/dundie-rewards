@@ -1,1 +1,2 @@
-print("Main module of the application started executing.")
+def main():
+    print("Main module of the application started executing.")
