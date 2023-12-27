@@ -1,2 +1,5 @@
-def main():
-    print("Main module of the application started executing.")
+from dundie.cli import main
+
+
+if __name__ == "__main__":
+    main()
